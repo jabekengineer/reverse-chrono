@@ -1,24 +1,24 @@
 {
-    "name": "reverse-chrono",
-    "version": "0.0.1",
-    "description": "Order Checklists whose titles have mm/dd/yyyy date strings on cards in reverse chronological order.",
-    "main": "server.js",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "dependencies": {
-      "express": "^4.15.2"
-    },
-    "engines": {
-      "node": "6.10.x"
-    },
-    "repository": {
-      "url": "https://github.com/jabekengineer/reverse-chrono.git"
-    },
-    "license": "MIT",
-    "keywords": [
-      "node",
-      "glitch",
-      "express"
-    ]
-  }
+  "name": "reverse-chrono",
+  "version": "0.0.1",
+  "description": "Order Checklists whose titles have mm/dd/yyyy date strings on cards in reverse chronological order.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://github.com/jabekengineer/reverse-chrono.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

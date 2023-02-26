@@ -10,11 +10,10 @@ app.get("/", function (request, response) {
   response.sendFile(__dirname + '/views/index.html');
 });
 
-app.get("/test.py", function (request, response) {
+app.get("/test", function (request, response) {
   const { spawn } = require('child_process');
-  const pyProg = spawn('python',['./public/py/test.py', 'hello' ]);
+  const pyProg = spawn('python',['./public/py/main.py', request.query["cardID"], request.query["boardID"]]);
   pyProg.stdout.on('data', function(data) {
-    // console.log(data.toString());
     response.write(data);
     response.end();
   });
