@@ -20,14 +20,16 @@ I needed an easy way to sort my checklists in reverse chronological order.
 
 ### The Problem
 Every week, I make a new checklist on my trello card to capture the meeting agenda. 
-By default, trello puts this new checklist on the bottom, beneath all older checklists. 
+By default, trello puts this <em>new checklist on the bottom</em>, beneath all older checklists.
+<br/> 
 ![][checklist-problem]
 
 I want the checklist to be on the top, so I can quickly access my agenda. 
-Sadly, the checklist scrolling isn't very smooth. 
+Sadly, the <em>checklist scrolling isn't very smooth</em>. 
+<br/>
 ![][scroll-problem]
-
-With one click of my Power-up button, it sorts my weekly agendas in reverse chronological order, 
+<br/>
+With <em>one click of my button</em>, it sorts my weekly agendas in reverse chronological order, 
 bringing my newest agenda checklist to the top where I want it. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
