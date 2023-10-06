@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Power-up in action!](solution)
+[Power-up in action!][solution]
 
 Mousemate was developed to streamline maintaining the records of a large mouse colony. Head to the Haider Wiki page to read more about the following:
 * <a href="https://haiderwiki.bme.gatech.edu/index.php?title=Learn_Mousemate_Development">Development</a>
